@@ -2,6 +2,7 @@ This application was developed by utilizing a machine learning model trained to 
 
 Originally had 100 photso for each letter but realized filesize was way too big :(
 
+<img width="276" alt="image" src="https://github.com/joannamooon/ASLTranslator/assets/148511962/a869b015-d8aa-4a36-84f0-2b311269dd26">
 
 
 
